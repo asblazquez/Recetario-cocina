@@ -1,0 +1,53 @@
+# Carpeta de dependencias de Node.js
+node_modules/
+
+# Archivo de bloqueo de dependencias generado por npm
+package-lock.json
+
+# Carpeta de dependencias de Yarn
+yarn-error.log
+yarn.lock
+
+# Archivos de registro
+logs/
+*.log
+
+# Carpeta de compilación de Vite
+dist/
+
+# Archivos de construcción generados por Babel
+lib/
+
+# Archivos de configuración locales
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de caché de dependencias
+.cache/
+
+# Carpeta de compilación de TypeScript
+out/
+
+# Carpeta de compilación de Next.js
+.next/
+
+# Carpeta de compilación de Create React App
+build/
+
+# Carpeta de archivos estáticos generados
+public/
+
+# Archivo de configuración de IDE (por ejemplo, Visual Studio Code)
+.vscode/
+
+# Archivos de configuración de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivo de configuración de usuarios de Windows
+Desktop.ini
+
+# Archivo de bloqueo de macOS
+.lockfile
