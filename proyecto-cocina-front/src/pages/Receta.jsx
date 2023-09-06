@@ -68,7 +68,7 @@ export function Receta(){
                         return(
                             <div key={index} className="grid md:grid-cols-12 grid-cols-4 gap-4 p-3">
                                 <div className="col-span-1 self-center bg-indigo-600 rounded-2xl">
-                                    <p className="text-xl text-white font-semibold text-center">{index}</p>
+                                    <p className="text-xl text-white font-semibold text-center">{index + 1}</p>
                                 </div>
                                 <div className="md:col-span-11 col-span-3">
                                     <p className="text-lg text-white font-semibold">{paso.descripcion}</p>
